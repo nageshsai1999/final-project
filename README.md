@@ -43,3 +43,15 @@ BackEnd:
 ERD DIAGRAM:
 ![ERD diagram (Final Project)](https://user-images.githubusercontent.com/103674487/168941055-0d9405cf-f157-4b08-a550-2c64e490c7d8.jpeg)
 
+
+
+
+A Outlook of the website:
+
+The home page of the website:
+
+
+![Screenshot 2022-05-17 215513](https://user-images.githubusercontent.com/103674487/168941307-9aead8d3-964a-4bbe-8751-4beae10b54dd.png)
+
+
+
