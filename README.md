@@ -125,7 +125,7 @@ Steps to connect the DATABASE To the server:
 
 
 
-2. Start the Apache and MYSQL server and press admin where it takes you to the database server
+2. Start the Apache and MYSQL server and press admin (mysql admin button ) where it takes you to the database server
 
 3.Create a new database 
 
