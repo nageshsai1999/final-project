@@ -31,3 +31,15 @@ BackEnd:
 2.NODE JS
 
 3.API (For Accessing the data in the database)
+
+
+
+
+
+
+
+
+
+ERD DIAGRAM:
+![ERD diagram (Final Project)](https://user-images.githubusercontent.com/103674487/168941055-0d9405cf-f157-4b08-a550-2c64e490c7d8.jpeg)
+
