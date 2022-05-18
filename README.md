@@ -174,6 +174,13 @@ menudetails: For Storing menuItem Details and create necessary column for that
   
   
   
+  Future thoughts for the website:
+  
+  1.Upgrade the webpage and create a payment portal (mentioned in ERD Diagram)
+  
+  2.The items would be sent to the check out page
+  
+  
   
 
 
