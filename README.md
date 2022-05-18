@@ -12,13 +12,22 @@ The functionalites included in this website are:
 #Tools used for this website:
 
 FrontEnd:
+
 1.HTML
+
 2.CSS
+
 3.BOOTSTRAP
+
 4.JAVA SCRIPT
+
 5.ANGULAR FRAMEWORK
 
+
 BackEnd:
+
 1.MYSQL
+
 2.NODE JS
+
 3.API (For Accessing the data in the database)
